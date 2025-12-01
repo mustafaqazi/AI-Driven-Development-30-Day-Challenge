@@ -1,5 +1,7 @@
 SPECKit Plus is a framework for AI native software development that focuses on Specification Driven Development with Reusable Intelligence (SDD RI), enabling projects to produce both working code and reusable knowledge artifacts.
+
 Short Note on SPECKit Plus
+
 Definition: SPECKit Plus is an advanced toolkit designed for building scalable multi agent AI systems. It extends the original Spec Kit framework with practical patterns, templates, and orchestration tools.
 Core Idea: Unlike traditional frameworks that only deliver code, SPECKit Plus emphasizes the two output philosophy: every project generates both functional software and reusable intelligence (such as specifications, architecture history, prompt history, and automated evaluations).
 Structure: 
